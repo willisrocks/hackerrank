@@ -3,5 +3,5 @@ Submissions for hackerrank.com
 
 ##Data Structures
 ###Arrays
-*Arrays
-*2D Array
+* Arrays
+* 2D Array
