@@ -1,2 +1,7 @@
 # hackerrank
-Submissions from hackerrank.com
+Submissions for hackerrank.com
+
+##Data Structures
+###Arrays
+*Arrays
+*2D Array
